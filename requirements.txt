@@ -1,0 +1,24 @@
+# scikit-learn
+av
+demucs
+# dora
+einops
+# essentia
+essentia-tensorflow
+flashy
+hydra-core
+julius
+librosa
+num2words
+numpy
+omegaconf
+pydub
+sentencepiece
+spacy
+soundfile
+torch
+torchaudio
+torchmetrics
+transformers
+tqdm
+xformers
